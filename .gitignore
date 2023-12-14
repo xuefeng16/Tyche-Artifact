@@ -1,0 +1,8 @@
+**/*.o
+**/*.d
+
+.champsimconfig_cache
+
+bin/
+
+.vscode/
